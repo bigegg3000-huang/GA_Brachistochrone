@@ -1,7 +1,8 @@
 # GA_Brachistochrone
 Finding brachistochrone by genetic algorithm
 
-0 : 원본
+00 : 원본
+0 : 작동 가능 원본
 3 : 알고리즘
 5 : 시각화
 
